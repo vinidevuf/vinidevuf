@@ -56,6 +56,30 @@ Chamo-me Vinicius Santos, Resido em São Paulo - São Paulo, graduando em Ciênc
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="70px" 
+    style="padding-right: 10px;" 
+    src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" 
+/>
+<img 
+    align="left" 
+    alt="Power Query" 
+    title="Power Query"
+    width="100px" 
+    style="padding-right: 10px;" 
+    src="https://img.shields.io/badge/Power_Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" 
+/>
+<img 
+    align="left" 
+    alt="Excel" 
+    title="Excel"
+    width="45px" 
+    style="padding-right: 10px;" 
+    src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" 
+/>
 
 <br/>
 <br/>
